@@ -33,6 +33,7 @@ Some scripts for drawing pictures of experimental results.
 - [Mininet](http://mininet.org/download/)
 - [BMv2](https://github.com/p4lang/behavioral-model)
 - [p4c](https://github.com/p4lang/p4c)
+- [mysql](https://www.mysql.com/)
 - [python](https://www.python.org/)
 
 2. Compile code:
