@@ -1,6 +1,5 @@
 # INT_Overlay
-This is a demo for VXLAN-based INT.
-In-Band Network Telemetry for overlay network monitoring.
+This is a demo for VXLAN-based INT, an INT system for overlay network monitoring.
 
 ## Include
 
