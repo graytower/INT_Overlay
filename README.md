@@ -1,18 +1,18 @@
 # INT_Overlay
 
-This is a demo for VXLAN-based INT, an INT system to monitor overlay network.
+This is a demo for overlay network monitoring with INT.
 
 ## Include
 
-The program includes five folders: p4src, json, packet, topo and experiment.
+The program includes five folders: p4src, DFSPathPlan, packet_DFS, topo and experiment.
 
 ### p4src
 
-The P4 file which defines the packet processing logic of the switches.
+The P4 and json file which defines the packet processing logic of the switches.
 
-### json
+### DFSPathPlan
 
-The output of compiling int_vxlan.p4 in **p4src** folders.
+Process the DFS path planning for lightweight INT (LINT).
 
 ### packet
 
